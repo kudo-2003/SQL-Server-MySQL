@@ -9,3 +9,5 @@
 # );
 
 # INSERT INTO admins (username, password) VALUES ('admin', 'password123'); /*Chèn dữ liệu*/
+
+# SELECT * FROM admindb.admins; /*lấy toàn bộ database*/
