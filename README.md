@@ -11,3 +11,4 @@
 # INSERT INTO admins (username, password) VALUES ('admin', 'password123'); /*Chèn dữ liệu*/
 
 # SELECT * FROM admindb.admins; /*lấy toàn bộ database*/
+# DROP TABLE IF EXISTS sellers; /*xóa bảng */
