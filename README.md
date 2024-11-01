@@ -12,3 +12,5 @@
 
 # SELECT * FROM admindb.admins; /*lấy toàn bộ database*/
 # DROP TABLE IF EXISTS sellers; /*xóa bảng */
+
+# SELECT * FROM USERS USERS  /*lấy bản*/
