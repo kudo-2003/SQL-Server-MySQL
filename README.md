@@ -14,3 +14,4 @@
 # DROP TABLE IF EXISTS sellers; /*xóa bảng */
 
 # SELECT * FROM USERS USERS  /*lấy bản*/
+# ALTER TABLE articles MODIFY COLUMN content TEXT; /* không giới hạng kích thước */
